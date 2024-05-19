@@ -1,5 +1,5 @@
 # RegisterPage
-#16 CSS  Register Simple Page
+#16 CSS  Register Simple Page.
 
 Maqueta la siguiente página de registro.
 Así debería quedar
